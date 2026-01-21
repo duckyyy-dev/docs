@@ -15,14 +15,22 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "Main Website",
           "icon": "book-open-cover",
-          "href": "https://docs.sanfrancisco-roleplay.cloud/"
+          "color": {
+            "light": "#E20010",
+            "dark": "#E20010"
+          },
+          "href": "https://sanfrancisco-roleplay.cloud/"
         },
         {
           "anchor": "Blog",
           "icon": "newspaper",
-          "href": "https://mintlify.com/blog"
+          "color": {
+            "light": "#E20010",
+            "dark": "#E20010"
+          },
+          "href": "https://blog.sanfrancisco-roleplay.cloud"
         }
       ]
     },
