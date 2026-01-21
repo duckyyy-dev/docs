@@ -26,23 +26,18 @@
         }
       ]
     },
-    "tabs": [
+    "groups": [
       {
-        "tab": "Guides",
-        "dropdowns": [
+        "group": "Getting started",
+        "pages": [
+          "index",
+          "quickstart",
           {
-            "dropdown": "Getting started",
+            "group": "Miscellaneous",
+            "icon": "gears",
             "pages": [
-              "index",
-              "quickstart",
-              {
-                "group": "Miscellaneous",
-                "icon": "gears",
-                "pages": [
-                  "guides/getting-started/miscellaneous/store",
-                  "guides/getting-started/miscellaneous/policies"
-                ]
-              }
+              "guides/getting-started/miscellaneous/store",
+              "guides/getting-started/miscellaneous/policies"
             ]
           }
         ]
