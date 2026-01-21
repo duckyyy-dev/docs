@@ -66,11 +66,7 @@
       }
     ]
   },
-  "logo": {
-    "light": "/logo/sanfrancisco.png",
-    "dark": "/logo/sanfrancisco.png",
-    "href": "https://docs.sanfrancisco-roleplay.cloud"
-  },
+  "logo": "/logo/sanfrancisco.png",
   "navbar": {
     "links": [
       {
