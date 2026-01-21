@@ -8,8 +8,8 @@
     "dark": "#FD5A1E"
   },
   "favicon": {
-    "light": "/favicon.svg",
-    "dark": "/favicon.svg"
+    "light": "/logo/sanfrancisco.png",
+    "dark": "/logo/sanfrancisco.png"
   },
   "navigation": {
     "global": {
@@ -57,7 +57,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:fwducky@sanfrancisco-roleplay.cloud"
       }
     ],
     "primary": {
@@ -80,9 +80,15 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "github": "https://github.com/duckyyy-dev",
+      "youtube": "https://youtube.com/SanfranRBLX",
+      "website": "https://sanfrancisco-roleplay.cloud"
+    }
+  },
+  "background": {
+    "color": {
+      "light": "#000000",
+      "dark": "#FFFFFF"
     }
   }
 }
