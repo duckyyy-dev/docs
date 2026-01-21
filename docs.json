@@ -29,9 +29,9 @@
     "tabs": [
       {
         "tab": "Guides",
-        "groups": [
+        "dropdowns": [
           {
-            "group": "Getting started",
+            "dropdown": "Getting started",
             "pages": [
               "index",
               "quickstart",
