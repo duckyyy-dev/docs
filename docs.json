@@ -53,8 +53,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/sanfrancisco.png",
-    "dark": "/logo/dark.png",
+    "light": "/logo/dark.png",
+    "dark": "/logo/sanfrancisco.png",
     "href": "file://wgsldn-fs15/HC_YP_Docs/rayhan.ravat/Downloads/dark.png"
   },
   "navbar": {
