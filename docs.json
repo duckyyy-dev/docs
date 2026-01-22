@@ -110,5 +110,10 @@
   },
   "seo": {
     "indexing": "navigable"
+  },
+  "integrations": {
+    "intercom": {
+      "appId": "a1bnb6lj"
+    }
   }
 }
