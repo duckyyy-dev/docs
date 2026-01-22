@@ -52,7 +52,11 @@
       }
     ]
   },
-  "logo": "/logo/sanfrancisco.png",
+  "logo": {
+    "light": "/logo/sanfrancisco.png",
+    "dark": "/logo/dark.png",
+    "href": "file://wgsldn-fs15/HC_YP_Docs/rayhan.ravat/Downloads/dark.png"
+  },
   "navbar": {
     "links": [
       {
@@ -89,6 +93,22 @@
     "color": {
       "light": "#FFFFFF",
       "dark": "#000000"
+    },
+    "decoration": "gradient"
+  },
+  "errors": {
+    "404": {
+      "title": "Whoops!",
+      "description": "The page you tried to access did not match any of our pages. Please return to https://docs.sanfrancisco-roleplay.cloud"
     }
+  },
+  "interaction": {
+    "drilldown": true
+  },
+  "metadata": {
+    "timestamp": true
+  },
+  "seo": {
+    "indexing": "navigable"
   }
 }
