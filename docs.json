@@ -61,7 +61,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:fwducky@sanfrancisco-roleplay.cloud"
+        "href": "mailto:contact@sanfrancisco-roleplay.cloud"
       }
     ],
     "primary": {
@@ -85,7 +85,7 @@
   "footer": {
     "socials": {
       "github": "https://github.com/duckyyy-dev",
-      "youtube": "https://youtube.com/SanfranRBLX",
+      "youtube": "https://youtube.com/@SanFranRBLX",
       "website": "https://sanfrancisco-roleplay.cloud"
     }
   },
@@ -115,5 +115,9 @@
     "intercom": {
       "appId": "a1bnb6lj"
     }
+  },
+  "banner": {
+    "dismissible": false,
+    "content": "Hello"
   }
 }
