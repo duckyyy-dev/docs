@@ -115,9 +115,4 @@
     "intercom": {
       "appId": "a1bnb6lj"
     }
-  },
-  "banner": {
-    "dismissible": false,
-    "content": "Hello"
   }
-}
