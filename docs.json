@@ -44,10 +44,18 @@
             "group": "Miscellaneous",
             "icon": "gears",
             "pages": [
+              "getting-started/miscellaneous/staff-perks",
               "guides/getting-started/miscellaneous/store",
               "guides/getting-started/miscellaneous/policies"
             ]
           }
+        ]
+      },
+      {
+        "group": "Affiliates",
+        "icon": "globe",
+        "pages": [
+          "affiliates/link-bot"
         ]
       }
     ]
